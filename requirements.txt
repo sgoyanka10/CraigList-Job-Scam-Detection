@@ -1,0 +1,11 @@
+python 3
+
+pandas
+numpy
+seaborn
+matplotlib
+nltk
+scikit-learn
+tensorflow
+Keras
+imblearn
