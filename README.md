@@ -3,7 +3,7 @@ In this project, We have explored natural language processing and machine learni
 
 ## Process Flow:
 
-![alt text](https://github.com/sgoyanka10/CraigList-Job-Scam-Detection/blob/main/Other/process_flow.png)
+<img src="Other/process_flow.png" alt="process_flow" width="800"/>
 
 ## Data Sources:
 
