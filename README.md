@@ -14,4 +14,4 @@ In this project, We have explored natural language processing and machine learni
 
 LSTM performed the best with an F1 score of 0.95 while the Naive Bayes performed the worst with an F1 score of 0.76.
 
-![alt text](https://github.com/sgoyanka10/CraigList-Job-Scam-Detection/blob/main/Other/results.png)
+<img src="Other/results.png" alt="results" width="200"/>
