@@ -14,4 +14,4 @@ In this project, We have explored natural language processing and machine learni
 
 LSTM performed the best with an F1 score of 0.94 while the Naive Bayes performed the worst with an F1 score of 0.81.
 
-<img src="Other/results.png" alt="results" width="600" height="350"/>
+<img src="Other/result.png" alt="results" width="600" height="350"/>
