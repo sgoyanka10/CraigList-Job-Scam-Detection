@@ -1,5 +1,5 @@
 ## CraigList-Job-Scam-Detection
-In this project, We have explored natural language processing and machine learning techniques to automate detection of fradulent jobs.
+In this project, I have explored natural language processing and machine learning techniques to automate detection of fradulent jobs.
 
 ### Process Flow:
 
